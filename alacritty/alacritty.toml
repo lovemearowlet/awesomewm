@@ -1,0 +1,15 @@
+[font]
+size = 7.25
+
+[font.bold]
+family = "Hack"
+
+[font.italic]
+family = "Hack"
+
+[font.normal]
+family = "Hack"
+style = "Regular"
+
+[window]
+opacity = 1
